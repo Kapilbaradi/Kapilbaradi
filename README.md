@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Kapil 👋
++ Full Stack Developer | Transitioning to ML Engineering
++ Tech stack: Python, JavaScript, React, Node.js, TensorFlow, scikit-learn
++ 🔭 Currently building: Full-stack applications with MERN stack and learning ML fundamentals
++ 🌱 Exploring: Machine Learning, Deep Learning, and transitioning from Salesforce to AI/ML Engineering
++ 🎯 **Goal:** Become a Full Stack ML Engineer specializing in AI-powered applications
+### 📫 How to reach me 
+- Linkedin: https://www.linkedin.com/in/kapil-baradi-58b1521ab
+- Email: baradikapil00@gmail.com
 
 <!--
 **Kapilbaradi/Kapilbaradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
